@@ -12,6 +12,9 @@ CellChat is a tool that can be used in R to infer, visualize, and analyze cell-t
 
 
 
+
+
+
 <p align="center">
 <img src="https://github.com/gddalton2003/demo_rep/blob/main/CellChat_Our_Lab.jpg">  
 </p>
