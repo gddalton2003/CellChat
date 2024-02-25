@@ -1,6 +1,6 @@
 # CellChat
 
-![Masterhead](![Masterhead](https://pbs.twimg.com/media/F07RVSkXoAAqCTJ?format=jpg&name=large)
+![Masterhead](![Masterhead]("https://github.com/gddalton2003/demo_rep/blob/main/CellChat2.png")
 
 <h3><img src="https://github.com/gddalton2003/demo_rep/blob/main/CellChat2.png" width="300" height="400" align = "left"> Inference and analysis of cell-cell communication using CellChat </h3>
 
