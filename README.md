@@ -1,7 +1,7 @@
 # CellChat
-
+<p align="center">
 ![Masterhead](https://github.com/gddalton2003/demo_rep/blob/main/CellChat2.png)
-
+</p>
 
 <h3><img src="https://github.com/gddalton2003/demo_rep/blob/main/CellChat2.png" width="300" height="400" align = "left"> Inference and analysis of cell-cell communication using CellChat </h3>
 
